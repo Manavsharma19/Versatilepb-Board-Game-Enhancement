@@ -17,7 +17,7 @@ Use s, d, e, w keys to move the defender while respecting screen boundaries.
 Defender sprite dynamically changes direction (left/right) based on movement.  
 **Collision Detection:**
 Implemented logic to detect projectile-land collisions.
-Landers are disabled upon a successful hit.
+Landers are disabled upon a successful hit.  
 **Real-Time Updates:**
 Utilized interrupts for keyboard input and rendering updates.
 Ensured smooth gameplay with real-time sprite rendering and state transitions.
